@@ -1,0 +1,4 @@
+# Plugins with issues
+
+cordova-plugin-admobpro
+phonegap-plugin-push

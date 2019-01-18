@@ -1,0 +1,23 @@
+{
+    "android": {
+        "release": {
+            "keystore": "./config/worlan-android.keystore",
+            "alias": "worlan-android",
+            "keystoreType": "",
+            "storePassword": "0V3V92WyeggmArwVa6bW7hSdm",
+            "password": "0V3V92WyeggmArwVa6bW7hSdm"
+        }
+    },
+    "ios": {
+        "debug": {
+            "buildFlag": [
+              "-UseModernBuildSystem=0"
+            ]
+        },
+        "release": {
+            "buildFlag": [
+              "-UseModernBuildSystem=0"
+            ]
+        }
+    }
+}
