@@ -1,4 +1,5 @@
 # Plugins with issues
 
 cordova-plugin-admobpro
+cordova-plugin-mobilenom ????
 phonegap-plugin-push
