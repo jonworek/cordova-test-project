@@ -22,7 +22,7 @@
         "cordova-plugin-geolocation": "^4.0.1",
         "cordova-plugin-globalization": "^1.11.0",
         "cordova-plugin-google-analytics": "^1.8.6",
-        "cordova-plugin-inappbrowser": "^3.0.0",
+        "cordova-plugin-inappbrowser": "^3.1.0",
         "cordova-plugin-inapppurchase": "^1.2.0",
         "cordova-plugin-ipad-multitasking": "^0.1.1",
         "cordova-plugin-itsappusesnonexemptencryption": "^0.1.0",
